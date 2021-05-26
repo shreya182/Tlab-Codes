@@ -1,5 +1,4 @@
 import numpy
-#Reference: Tutorial from Tariq Rasid's book - Make your own Neural network
 
 #scipy.special is for sigmoid function expit()
 import scipy.special
